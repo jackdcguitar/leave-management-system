@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Leave System Portal (Spring Boot 3 + MySQL + Security + HTMX)
 
 ## Quick Start
@@ -26,3 +27,7 @@
 - MySQL driver：8.4.0（相容 MySQL 8.0.42）
 - Session：Spring Session JDBC（持久化、timeout=30m、SameSite=Lax）
 - 權限：`/admin/**` 需 `ROLE_ADMIN`
+=======
+# leave-management-system
+請假系統
+>>>>>>> f4a5bd304fe80f2cb1fcf811d9bc95f60546d05b
