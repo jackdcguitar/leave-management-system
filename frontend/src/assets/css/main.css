@@ -1,0 +1,32 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+.sidebar {
+  width: 240px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-right: 1px solid #e5e7eb;
+  overflow-y: auto;
+}
+
+.main-content {
+  margin-left: 240px;
+  padding: 1rem;
+}
+
+.nav-btn {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 0.5rem;
+}
+
+.nav-btn.active {
+  font-weight: 700;
+}

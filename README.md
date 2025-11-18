@@ -16,7 +16,7 @@
    ```bash
    mvn spring-boot:run
    ```
-4. 登入：`http://localhost:8080/login`
+4. 登入：`
    - admin/admin123（ADMIN+USER）
    - manager/manager123（MANAGER+USER）
    - user/user123（USER）
